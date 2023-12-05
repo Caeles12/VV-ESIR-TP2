@@ -1,6 +1,6 @@
 package fr.istic.vv.Code;
 
-public class Person {
+public class Person2 {
   private int age;
   private String name;
 
